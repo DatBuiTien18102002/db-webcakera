@@ -1,0 +1,238 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "image": "images/Menu/cupcake.png",
+      "name": "Cupcake Chocolate",
+      "price": 16000,
+      "info": "Có nguồn gốc từ châu Âu với hình dạng cây nấm nhỏ xinh, bên trên được phủ 1 lớp kem cầu kì."
+    },
+    {
+      "id": "2",
+      "image": "images/Menu/tiramisu.png",
+      "name": "Tiramisu Cake",
+      "price": 73600,
+      "info": "Nổi tiếng ở nước Ý với hương vị thơm ngon, thanh ngọt và mát lạnh đã khiến nhiều người say đắm."
+    },
+    {
+      "id": "3",
+      "image": "images/Menu/fritter.png",
+      "name": "Dorayaki Cake",
+      "price": 30000,
+      "info": "Là một thứ bánh cổ truyền ở Nhật Bản với vỏ ngoài mềm mịn kèm lớp nhân thơm ngon, ngọt ngào."
+    },
+    {
+      "id": "4",
+      "image": "images/Menu/creamcake.png",
+      "name": "Chocolate Cake",
+      "price": 250000,
+      "info": "Là một tuyệt phẩm ẩm thực mà không chỉ đánh bại cơn thèm ngọt, mà còn đem đến cho bạn một trải nghiệm vị giác thăng hoa. Với lớp kem sô-cô-la mềm mịn và bánh sô-cô-la mềm và ngon, bánh kem này thường được trang trí bằng socola sáng bóng, hạt cacao, hoặc trái cây tươi ngon. Bánh kem chocolate là một biểu tượng trong thế giới của ẩm thực tráng miệng và luôn là lựa chọn hoàn hảo cho các dịp đặc biệt hoặc đơn giản là để thỏa mãn khẩu vị của bạn."
+    },
+    {
+      "id": "5",
+      "image": "images/Menu/donut.png",
+      "name": "Donut Cake",
+      "price": 60000,
+      "info": "Chiếc bánh rán tròn tròn hình chiếc nhẫn độc đáo được bọc sốt bên trên tạo cảm giác thèm ăn."
+    },
+    {
+      "id": "6",
+      "image": "images/Menu/pancake.png",
+      "name": "Pancake Cake",
+      "price": 60000,
+      "info": " Một món ăn ngon và truyền thống trên khắp thế giới. Bánh này được làm từ hỗn hợp bột, sữa, trứng và gia vị, sau đó chiên lên cho đến khi có màu vàng và mặt ngoài giòn ngon. Pancake thường được ăn kèm với siro, mật ong, hoặc trái cây tươi ngon, tạo nên một bữa ăn ngon miệng và đa dạng."
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "image": "images/Cake/cupcake.jpg",
+      "name": "Cupcake Chocolate",
+      "price": 16000,
+      "info": "Có nguồn gốc từ châu Âu với hình dạng cây nấm nhỏ xinh, bên trên được phủ 1 lớp kem cầu kì.",
+      "rate": 4.5,
+      "numRate": 74,
+      "discount": 12,
+      "type": "Bánh ngọt"
+    },
+    {
+      "id": "2",
+      "image": "images/Cake/tiramisu.jpg",
+      "name": "Tiramisu Cake",
+      "price": 73600,
+      "info": "Nổi tiếng ở nước Ý với hương vị thơm ngon, thanh ngọt và mát lạnh đã khiến nhiều người say đắm.",
+      "rate": 3.7,
+      "numRate": 50,
+      "discount": 30,
+      "type": "Bánh mặn"
+    },
+    {
+      "id": "3",
+      "image": "images/Cake/fritter.jpg",
+      "name": "Dorayaki Cake",
+      "price": 30000,
+      "info": "Là một thứ bánh cổ truyền ở Nhật Bản với vỏ ngoài mềm mịn kèm lớp nhân thơm ngon, ngọt ngào.",
+      "rate": 4.8,
+      "numRate": 20,
+      "discount": 5,
+      "type": "Bánh mặn"
+    },
+    {
+      "id": "4",
+      "image": "images/Cake/creamcake.jpg",
+      "name": "Chocolate Cake",
+      "price": 250000,
+      "info": "Là một tuyệt phẩm ẩm thực mà không chỉ đánh bại cơn thèm ngọt, mà còn đem đến cho bạn một trải nghiệm vị giác thăng hoa. Với lớp kem sô-cô-la mềm mịn và bánh sô-cô-la mềm và ngon, bánh kem này thường được trang trí bằng socola sáng bóng, hạt cacao, hoặc trái cây tươi ngon. Bánh kem chocolate là một biểu tượng trong thế giới của ẩm thực tráng miệng và luôn là lựa chọn hoàn hảo cho các dịp đặc biệt hoặc đơn giản là để thỏa mãn khẩu vị của bạn.",
+      "rate": 3.5,
+      "numRate": 60,
+      "discount": 1,
+      "type": "Bánh kem"
+    },
+    {
+      "id": "5",
+      "image": "images/Cake/donut.jpg",
+      "name": "Donut Cake",
+      "price": 60000,
+      "info": "Chiếc bánh rán tròn tròn hình chiếc nhẫn độc đáo được bọc sốt bên trên tạo cảm giác thèm ăn.",
+      "rate": 3.6,
+      "numRate": 34,
+      "discount": 18,
+      "type": "Bánh ngọt"
+    },
+    {
+      "id": "6",
+      "image": "images/Cake/pancake.jpg",
+      "name": "Pancake",
+      "price": 60000,
+      "info": " Một món ăn ngon và truyền thống trên khắp thế giới. Bánh này được làm từ hỗn hợp bột, sữa, trứng và gia vị, sau đó chiên lên cho đến khi có màu vàng và mặt ngoài giòn ngon. Pancake thường được ăn kèm với siro, mật ong, hoặc trái cây tươi ngon, tạo nên một bữa ăn ngon miệng và đa dạng.",
+      "rate": 4.8,
+      "numRate": 200,
+      "discount": 19,
+      "type": "Bánh ngọt"
+    },
+    {
+      "id": "7",
+      "image": "images/Cake/strawberryCake.jpg",
+      "name": "Cupcake Chocolate",
+      "price": 200000,
+      "info": "Là một loại bánh ngọt có hương vị dâu ngọt và thường được làm từ bột mỳ, đường, trứng và dâu tươi hoặc dâu đóng hộp. Bánh thường được trang trí với kem tươi, kem bơ, hoặc lớp kem sữa tươi phía trên và thường là món tráng miệng lôi cuốn với màu sắc tươi sáng và hương vị ngọt ngào của dâu.",
+      "rate": 5,
+      "numRate": 10,
+      "discount": 2,
+      "type": "Bánh kem"
+    },
+    {
+      "id": "8",
+      "image": "images/Cake/mousse.jpg",
+      "name": "Mousse Cake",
+      "price": 180000,
+      "info": "Với kết cấu mềm mịn và hương vị tinh tế, là một trong những món tráng miệng phổ biến và đẹp mắt trong nền ẩm thực. Với lớp mousse (kem bọt) thơm ngon bên trong và lớp bánh ngoài cùng, bánh Mousse đem đến trải nghiệm ẩm thực độc đáo và thú vị. Được trang trí bằng socola, trái cây tươi, hoặc các lớp kem lạ mắt, bánh Mousse không chỉ là một món tráng miệng ngon mắt mà còn là một tác phẩm nghệ thuật ẩm thực.",
+      "rate": 4.1,
+      "numRate": 80,
+      "discount": 2,
+      "type": "Bánh kem"
+    },
+    {
+      "id": "9",
+      "image": "images/Cake/cheesecake.jpg",
+      "name": "Cheese Cake",
+      "price": 150000,
+      "info": "Bánh Cheese Cake thường có lớp phô mai mềm mịn trên mặt, kết hợp với vị ngọt ngào và hương thơm độc đáo. Đây là một món tráng miệng phổ biến và yêu thích của nhiều người.",
+      "rate": 4.7,
+      "numRate": 170,
+      "discount": 10,
+      "type": "Bánh kem"
+    },
+    {
+      "id": "10",
+      "image": "images/Cake/redvelvet.jpg",
+      "name": "Red Velvet Cake",
+      "price": 180000,
+      "info": "Bánh Red Velvet nổi tiếng với lớp bánh mềm mịn và màu đỏ đặc trưng. Thường được kết hợp với lớp kem tươi và là một lựa chọn tuyệt vời cho các dịp đặc biệt.",
+      "rate": 4.9,
+      "numRate": 40,
+      "discount": 15,
+      "type": "Bánh kem"
+    },
+    {
+      "id": "11",
+      "image": "images/Cake/lemoncake.jpg",
+      "name": "Lemon Cake",
+      "price": 120000,
+      "info": "Bánh Lemon Cake với hương vị chanh dịu ngọt là món ăn tráng miệng thú vị và sảng khoái. Thường được trang trí bằng đường và vỏ chanh.",
+      "rate": 4.4,
+      "numRate": 98,
+      "discount": 5,
+      "type": "Bánh ngọt"
+    },
+    {
+      "id": "12",
+      "image": "images/Cake/carrotcake.jpg",
+      "name": "Carrot Cake",
+      "price": 140000,
+      "info": "Bánh Carrot Cake với hương vị cà rốt thơm ngon, thường được ăn kèm với lớp kem tươi hoặc lớp phô mai mềm mịn.",
+      "rate": 4.6,
+      "numRate": 110,
+      "discount": 8,
+      "type": "Bánh ngọt"
+    },
+    {
+      "id": "13",
+      "image": "images/Cake/lavachocolate.jpg",
+      "name": "Lava Chocolate Cake",
+      "price": 160000,
+      "info": "Bánh Lava Chocolate có lớp nhân sô-cô-la nướng trong lòng, khi chạm vào sẽ chảy ra, tạo nên trải nghiệm thú vị cho mọi thực khách.",
+      "rate": 4.8,
+      "numRate": 97,
+      "discount": 12,
+      "type": "Bánh kem"
+    },
+    {
+      "id": "14",
+      "image": "images/Cake/coffeecake.jpg",
+      "name": "Coffee Cake",
+      "price": 110000,
+      "info": "Bánh Coffee Cake với hương vị cà phê thơm ngon, thường được ăn kèm với ly cà phê sữa vào buổi sáng hoặc chiều.",
+      "rate": 4.3,
+      "numRate": 145,
+      "discount": 5,
+      "type": "Bánh ngọt"
+    },
+    {
+      "id": "15",
+      "image": "images/Cake/blueberrycake.jpg",
+      "name": "Blueberry Cake",
+      "price": 125000,
+      "info": "Bánh Blueberry với lớp hạt mâm xôi tươi ngon, thường được ăn kèm với lớp kem tươi và bánh mềm mịn.",
+      "rate": 4.5,
+      "numRate": 19,
+      "discount": 6,
+      "type": "Bánh kem"
+    },
+    {
+      "id": "16",
+      "image": "images/Cake/fruitcake.jpg",
+      "name": "Fruit Cake",
+      "price": 170000,
+      "info": "Bánh Fruit Cake thường được làm từ trái cây sấy khô, hạnh nhân, và gia vị, tạo nên hương vị độc đáo và thơm ngon.",
+      "rate": 4.7,
+      "numRate": 12,
+      "discount": 10,
+      "type": "Bánh ngọt"
+    },
+    {
+      "id": "17",
+      "image": "images/Cake/matchacake.jpg",
+      "name": "Matcha Cake",
+      "price": 135000,
+      "info": "Bánh Matcha với hương vị trà xanh độc đáo, thường được ăn kèm với kem tươi hoặc sirô matcha.",
+      "rate": 4.6,
+      "numRate": 99,
+      "discount": 8,
+      "type": "Bánh ngọt"
+    }
+  ],
+  "profile": {
+    "name": "Po"
+  }
+}
